@@ -83,7 +83,7 @@ input[type=text], input[type=email], input[list]{
 #image-form{
 	display: inline; 
 	position: absolute;
-	top: 650px;
+	top: 800px;
 	left: 700px;
 	height: 450px;
   	width: 580px;}
